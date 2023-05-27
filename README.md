@@ -19,7 +19,7 @@ Preview: ![image](https://github.com/mariadolores06/Text-Editor-PWA/assets/11815
 Manifest.json: ![image](https://github.com/mariadolores06/Text-Editor-PWA/assets/118150524/ef5bca16-31af-4c74-a63b-833531b2fee1)
 
 
-Deployed App: 
+Deployed App: https://polar-anchorage-73508.herokuapp.com/
 
 ## Tests
 N/A
