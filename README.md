@@ -15,6 +15,8 @@ please visit the deployed application
 Feel free to use this application online or install it for offline use!
 The application is a simple text-editor that allows users to store notes for future use or delete them once they are done. 
 
+Preview: ![image](https://github.com/mariadolores06/Text-Editor-PWA/assets/118150524/df4d0f6e-c78b-41c1-abc0-4b670fbad6a6)
+Manifest.json: 
 Deployed App: 
 
 ## Tests
